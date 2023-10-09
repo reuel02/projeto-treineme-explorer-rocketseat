@@ -2,6 +2,8 @@
 
 Projeto de uma página estática para concretizar alguns conceitos de HTML e CSS, como: posicionamento de elementos, estilização e funcionamento de botões, manipulação de imagens e Box models do CSS.
 
+Este projeto pode ser visualizado <a href="https://reuel02.github.io/projeto-treineme-explorer-rocketseat/">aqui</a>
+
 ### Linguagens e Ferramentas
 
 - HTML
